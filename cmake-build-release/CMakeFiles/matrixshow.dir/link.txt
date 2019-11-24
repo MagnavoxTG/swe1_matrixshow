@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/matrixshow.dir/main.c.o  -o matrixshow 
